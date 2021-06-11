@@ -24,7 +24,10 @@ main {
 }
 
 footer {
-  background-color: var(--color-three);
+  padding: 2%;
+  background-color: var(--color-two);
+  color: var(--color-white);
+  text-align: center;
 }
 
 .main-content {
@@ -33,7 +36,8 @@ footer {
 }
 
 nav {
-  padding: 1.2em;
+  padding-top: 2em;
+  padding-bottom: 2em;
   text-align: center;
   max-width: var(--page-max-width);
   margin: 0 auto;
@@ -51,10 +55,9 @@ nav li {
 }
 
 nav a {
-  color: red;
   display: inline-block;
   padding: 0.5em;
-  color: var(--color-white);
+  color: yellow;
 }
 
 h1,
@@ -65,13 +68,14 @@ h3 {
 }
 h1 {
   max-width: var(--page-max-width);
-  font-size: 4rem;
+  font-size: 2.7rem;
+  font-weight: 700;
 }
 
 h2 {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 h3 {
-  font-size: 2.5rem;
+  font-size: 1.7rem;
 }
