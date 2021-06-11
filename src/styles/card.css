@@ -12,6 +12,8 @@
   width: 20rem;
   height: auto;
   overflow: hidden;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 
 .card a {

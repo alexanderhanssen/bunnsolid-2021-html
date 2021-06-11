@@ -47,6 +47,7 @@ nav {
 section {
   max-width: var(--page-max-width);
   margin: 0 auto;
+  margin-bottom: 5em;
 }
 
 nav li {
