@@ -51,10 +51,9 @@ nav li {
 }
 
 nav a {
-  color: red;
   display: inline-block;
   padding: 0.5em;
-  color: var(--color-white);
+  color: yellow;
 }
 
 h1,
