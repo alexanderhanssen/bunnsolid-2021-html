@@ -11,10 +11,16 @@
   border: 2px solid black;
   width: 20rem;
   height: auto;
+  overflow: hidden;
 }
 
 .card-top {
   height: 10rem;
+  overflow: hidden;
+}
+
+.card-image {
+  width: 100%;
 }
 
 .card-bottom {
