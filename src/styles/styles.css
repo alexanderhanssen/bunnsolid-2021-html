@@ -59,7 +59,10 @@ nav li {
 nav a {
   display: inline-block;
   padding: 0.5em;
-  color: yellow;
+}
+
+a {
+  color: var(--color-white);
 }
 
 h1,
