@@ -8,6 +8,11 @@
   --page-max-width: 80vw;
 }
 
+a {
+  display: inline-block;
+  padding-top: 2em;
+}
+
 body {
   font-family: "Roboto";
   color: var(--color-white);
@@ -61,6 +66,9 @@ nav a {
   padding: 0.5em;
 }
 
+li {
+  list-style: none;
+}
 a {
   color: var(--color-white);
 }

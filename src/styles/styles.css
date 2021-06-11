@@ -66,6 +66,9 @@ nav a {
   padding: 0.5em;
 }
 
+li {
+  list-style: none;
+}
 a {
   color: var(--color-white);
 }
