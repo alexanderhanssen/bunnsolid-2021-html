@@ -12,6 +12,8 @@ body {
   font-family: "Roboto";
 }
 header {
+  position: sticky;
+  top: 0;
   background-color: var(--color-two);
 }
 
