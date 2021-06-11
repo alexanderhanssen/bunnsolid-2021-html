@@ -1,0 +1,2 @@
+:root{--borderRadius:2em;--padding:1em}.card{border-radius:var(--borderRadius);display:flex;flex-direction:column;background-color:var(--color-one);border:2px solid #000;width:20rem;height:auto;overflow:hidden;margin-top:2em;margin-bottom:2em}.card-top{height:10rem;overflow:hidden}.card-image{width:100%}.card-bottom{height:auto;border-top:.2rem solid #000;padding:var(--padding)}.card-container{display:flex;justify-content:space-between}
+/*# sourceMappingURL=index.1a0ab75a.css.map */

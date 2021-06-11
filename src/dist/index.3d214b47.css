@@ -1,0 +1,39 @@
+:root {
+  --borderRadius: 2em;
+  --padding: 1em;
+}
+
+.card {
+  border-radius: var(--borderRadius);
+  display: flex;
+  flex-direction: column;
+  background-color: var(--color-one);
+  border: 2px solid black;
+  width: 20rem;
+  height: auto;
+  overflow: hidden;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.card-top {
+  height: 10rem;
+  overflow: hidden;
+}
+
+.card-image {
+  width: 100%;
+}
+
+.card-bottom {
+  height: auto;
+  border-top: 0.2rem solid black;
+  padding: var(--padding);
+}
+
+.card-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+/*# sourceMappingURL=index.3d214b47.css.map */
