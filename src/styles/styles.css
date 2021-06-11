@@ -6,6 +6,10 @@
   --color-five: #ed553b;
   --color-white: white;
 }
+
+body {
+  font-family: "Roboto";
+}
 header {
   background-color: var(--color-two);
 }
