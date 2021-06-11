@@ -22,3 +22,8 @@
   border-top: 0.2rem solid black;
   padding: var(--padding);
 }
+
+.card-container {
+    display: flex;
+    justify-content: space-between;
+}
